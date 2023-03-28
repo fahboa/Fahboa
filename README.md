@@ -1,10 +1,10 @@
 <p style="display: grid; place-items: center;"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="300"/></p>
 <div id="badges" style="display: grid; place-items: center;">
-<a href="https://github.com/saviourise?tab=followers">
-<img src="https://img.shields.io/github/followers/saviourise?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/fahboa?tab=followers">
+<img src="https://img.shields.io/github/followers/fahboa?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
-<a href="https://twitter.com/saviour_ise" target="blank">
-<img src="https://img.shields.io/twitter/follow/saviour_ise?logo=twitter&style=social&label=Followers" alt="saviour_ise" />
+<a href="https://twitter.com/FaheemMora" target="blank">
+<img src="https://img.shields.io/twitter/follow/FaheemMora?logo=twitter&style=social&label=Followers" alt="saviour_ise" />
 </a><br>
 <a href="www.linkedin.com/in/saviourise" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
