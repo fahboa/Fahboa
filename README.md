@@ -6,7 +6,7 @@
 <a href="https://twitter.com/FaheemMora" target="blank">
 <img src="https://img.shields.io/twitter/follow/FaheemMora?logo=twitter&style=social&label=Followers" alt="saviour_ise" />
 </a><br>
-<a href="www.linkedin.com/in/faheem-abubakar" target="_blank">
+<a href="https://www.linkedin.com/in/faheem-abubakar-89a674194?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3fszi2wMQ8OTIf2ZwXozag%3D%3D" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
 </a>
   <br><a href="https://github.com/fahboa">
